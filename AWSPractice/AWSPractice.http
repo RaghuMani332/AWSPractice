@@ -1,0 +1,6 @@
+@AWSPractice_HostAddress = http://localhost:5135
+
+GET {{AWSPractice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
